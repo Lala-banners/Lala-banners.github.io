@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['monosingleton_37',['MonoSingleton',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html',1,'BreadAndButter']]],
-  ['monosingleton_3c_20lootmanager_20_3e_38',['MonoSingleton&lt; LootManager &gt;',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html',1,'BreadAndButter']]]
+  ['dialoguecontroller_177',['DialogueController',['../d6/dff/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_controller.html',1,'IsSus::Game::Dialogue']]],
+  ['dialogueuidisplay_178',['DialogueUIDisplay',['../df/d4e/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_u_i_display.html',1,'IsSus::Game::Dialogue']]]
 ];

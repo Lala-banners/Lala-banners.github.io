@@ -1,4 +1,24 @@
 var searchData=
 [
-  ['oninspectorgui_17',['OnInspectorGUI',['../da/d88/class_bread_and_butter_1_1_a_i_1_1_spawner_editor.html#a7d245f454c008b2c555939773f1a7d18',1,'BreadAndButter::AI::SpawnerEditor']]]
+  ['controller_65',['Controller',['../db/d1f/namespaceis_sus_1_1_game_1_1_controller.html',1,'isSus.Game.Controller'],['../d1/d36/namespace_is_sus_1_1_game_1_1_controller.html',1,'IsSus.Game.Controller']]],
+  ['dialogue_66',['Dialogue',['../d0/dd1/namespace_is_sus_1_1_game_1_1_dialogue.html',1,'IsSus::Game']]],
+  ['game_67',['Game',['../d1/db0/namespace_is_sus_1_1_game.html',1,'IsSus.Game'],['../dd/d7c/namespaceis_sus_1_1_game.html',1,'isSus.Game']]],
+  ['icomparecolours_68',['ICompareColours',['../d1/d3f/class_is_sus_1_1_sorting_1_1_i_compare_colours.html#a97cb32ed9a2bcb5fa301601e659a3e1e',1,'IsSus.Sorting.ICompareColours.ICompareColours()'],['../d1/d3f/class_is_sus_1_1_sorting_1_1_i_compare_colours.html',1,'IsSus.Sorting.ICompareColours']]],
+  ['icomparecolours_2ecs_69',['ICompareColours.cs',['../d6/dfe/_i_compare_colours_8cs.html',1,'']]],
+  ['icon_70',['icon',['../df/d4e/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_u_i_display.html#ae9f0cebdfa1c1084ea34fc692a327d93',1,'IsSus::Game::Dialogue::DialogueUIDisplay']]],
+  ['individual_71',['Individual',['../d2/dd4/class_is_sus_1_1_game_1_1_dialogue_1_1_individual.html',1,'IsSus::Game::Dialogue']]],
+  ['individual_2ecs_72',['Individual.cs',['../d7/da9/_individual_8cs.html',1,'']]],
+  ['individualgnome_73',['IndividualGnome',['../d5/d01/class_is_sus_1_1_sorting_1_1_individual_gnome.html',1,'IsSus::Sorting']]],
+  ['individualgnome_2ecs_74',['IndividualGnome.cs',['../d0/d67/_individual_gnome_8cs.html',1,'']]],
+  ['individualleft_75',['individualLeft',['../d4/d96/class_is_sus_1_1_game_1_1_dialogue_1_1_conversation.html#ab1b31dcd55f2f532457efba39c03761e',1,'IsSus::Game::Dialogue::Conversation']]],
+  ['individualname_76',['individualName',['../df/d4e/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_u_i_display.html#a5c53c9fa3e729dfa459aa45fc5bee692',1,'IsSus.Game.Dialogue.DialogueUIDisplay.individualName()'],['../d2/dd4/class_is_sus_1_1_game_1_1_dialogue_1_1_individual.html#a11355bf03ffc3a687e33f41312f6097c',1,'IsSus.Game.Dialogue.Individual.individualName()']]],
+  ['individualright_77',['individualRight',['../d4/d96/class_is_sus_1_1_game_1_1_dialogue_1_1_conversation.html#a4446b4ad4ea688394ba960141c595b89',1,'IsSus::Game::Dialogue::Conversation']]],
+  ['instance_78',['instance',['../d6/dff/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_controller.html#a0721af50ba6aad926b19a0af45a879fb',1,'IsSus.Game.Dialogue.DialogueController.instance()'],['../d4/dad/class_is_sus_1_1_game_1_1_mechanic_1_1_space_ship_anim.html#a04b8cf63e2877dd26e5f533ab274a6fe',1,'IsSus.Game.Mechanic.SpaceShipAnim.instance()'],['../db/dd7/class_is_sus_1_1_game_1_1_u_i_1_1_timer.html#a1578e7a011ba612a1b950b0ab7557b7c',1,'IsSus.Game.UI.Timer.instance()']]],
+  ['isgrounded_79',['isGrounded',['../d7/d93/class_is_sus_1_1_game_1_1_mechanic_1_1_object_gravity.html#ace4a69e3794355ef7ae8adfe5533d215',1,'IsSus.Game.Mechanic.ObjectGravity.isGrounded()'],['../d8/d95/class_is_sus_1_1_game_1_1_controller_1_1_player_controller.html#a030dbac5a3457908ce35778501a3d9ab',1,'IsSus.Game.Controller.PlayerController.isGrounded()']]],
+  ['ispaused_80',['isPaused',['../d0/d7b/class_is_sus_1_1_game_1_1_u_i_1_1_pause_menu.html#a5f77ae6ed9a0f71e8c8a2b7ca607add9',1,'IsSus::Game::UI::PauseMenu']]],
+  ['issus_81',['IsSus',['../d2/dba/namespace_is_sus.html',1,'']]],
+  ['issus_82',['isSus',['../d8/da6/namespaceis_sus.html',1,'']]],
+  ['mechanic_83',['Mechanic',['../db/d2d/namespace_is_sus_1_1_game_1_1_mechanic.html',1,'IsSus::Game']]],
+  ['sorting_84',['Sorting',['../db/dd6/namespace_is_sus_1_1_sorting.html',1,'IsSus']]],
+  ['ui_85',['UI',['../d8/d5f/namespace_is_sus_1_1_game_1_1_u_i.html',1,'IsSus::Game']]]
 ];

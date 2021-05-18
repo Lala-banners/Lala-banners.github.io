@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['ai_1',['AI',['../d0/daf/namespace_bread_and_butter_1_1_a_i.html',1,'BreadAndButter']]],
-  ['breadandbutter_2',['BreadAndButter',['../d0/d89/namespace_bread_and_butter.html',1,'']]],
-  ['loot_3',['Loot',['../dc/d67/namespace_bread_and_butter_1_1_loot.html',1,'BreadAndButter']]]
+  ['basecamaudio_13',['baseCamAudio',['../d5/df7/class_is_sus_1_1_game_1_1_mechanic_1_1_change_camera.html#a71a5574222ceea0c35040dff0d8a5540',1,'IsSus::Game::Mechanic::ChangeCamera']]],
+  ['basecamera_14',['baseCamera',['../d5/df7/class_is_sus_1_1_game_1_1_mechanic_1_1_change_camera.html#a8f1e1f926c7b9dfee12e61dfd6b9c236',1,'IsSus::Game::Mechanic::ChangeCamera']]]
 ];

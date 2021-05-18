@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['volumetrigger_48',['VolumeTrigger',['../d2/d57/class_bread_and_butter_1_1_volume_trigger.html',1,'BreadAndButter']]]
+  ['menumanager_184',['MenuManager',['../d6/d8f/class_is_sus_1_1_game_1_1_u_i_1_1_menu_manager.html',1,'IsSus::Game::UI']]]
 ];

@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['scenefieldattribute_41',['SceneFieldAttribute',['../d6/d8a/class_bread_and_butter_1_1_scene_field_attribute.html',1,'BreadAndButter']]],
-  ['scenefielddrawer_42',['SceneFieldDrawer',['../d1/de3/class_scene_field_drawer.html',1,'']]],
-  ['spawner_43',['Spawner',['../d9/da2/class_bread_and_butter_1_1_a_i_1_1_spawner.html',1,'BreadAndButter.AI.Spawner'],['../d0/d0f/class_spawner.html',1,'Spawner']]],
-  ['spawnereditor_44',['SpawnerEditor',['../da/d88/class_bread_and_butter_1_1_a_i_1_1_spawner_editor.html',1,'BreadAndButter::AI']]]
+  ['icomparecolours_180',['ICompareColours',['../d1/d3f/class_is_sus_1_1_sorting_1_1_i_compare_colours.html',1,'IsSus::Sorting']]],
+  ['individual_181',['Individual',['../d2/dd4/class_is_sus_1_1_game_1_1_dialogue_1_1_individual.html',1,'IsSus::Game::Dialogue']]],
+  ['individualgnome_182',['IndividualGnome',['../d5/d01/class_is_sus_1_1_sorting_1_1_individual_gnome.html',1,'IsSus::Sorting']]]
 ];

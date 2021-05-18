@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['lootable_33',['Lootable',['../d8/d34/class_bread_and_butter_1_1_loot_1_1_lootable.html',1,'BreadAndButter::Loot']]],
-  ['lootmanager_34',['LootManager',['../d5/d76/class_bread_and_butter_1_1_loot_1_1_loot_manager.html',1,'BreadAndButter::Loot']]],
-  ['loottable_35',['LootTable',['../d7/d95/class_bread_and_butter_1_1_loot_1_1_loot_table.html',1,'BreadAndButter::Loot']]],
-  ['lootyboy_36',['LootyBoy',['../d2/df1/class_bread_and_butter_1_1_loot_1_1_looty_boy.html',1,'BreadAndButter::Loot']]]
+  ['changecamera_174',['ChangeCamera',['../d5/df7/class_is_sus_1_1_game_1_1_mechanic_1_1_change_camera.html',1,'IsSus::Game::Mechanic']]],
+  ['coloursorting_175',['ColourSorting',['../dd/d61/class_is_sus_1_1_sorting_1_1_colour_sorting.html',1,'IsSus::Sorting']]],
+  ['conversation_176',['Conversation',['../d4/d96/class_is_sus_1_1_game_1_1_dialogue_1_1_conversation.html',1,'IsSus::Game::Dialogue']]]
 ];

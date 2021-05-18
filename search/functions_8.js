@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_3c_20t_20_3e_62',['Setup&lt; T &gt;',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html#ae056796b2491f96169b2ff51e3761ae0',1,'BreadAndButter::RunnableHelper']]]
+  ['nextsentence_251',['NextSentence',['../d6/dff/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_controller.html#a00b1957b9f308757a993e31969369690',1,'IsSus::Game::Dialogue::DialogueController']]]
 ];

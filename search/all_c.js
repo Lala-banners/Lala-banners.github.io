@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['validate_3c_20t_20_3e_29',['Validate&lt; T &gt;',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html#a1c9403ac9d23c329c4e64ec7459fc789',1,'BreadAndButter::RunnableHelper']]],
-  ['volumetrigger_30',['VolumeTrigger',['../d2/d57/class_bread_and_butter_1_1_volume_trigger.html',1,'BreadAndButter']]]
+  ['nextsentence_103',['NextSentence',['../d6/dff/class_is_sus_1_1_game_1_1_dialogue_1_1_dialogue_controller.html#a00b1957b9f308757a993e31969369690',1,'IsSus::Game::Dialogue::DialogueController']]]
 ];
